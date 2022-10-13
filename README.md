@@ -1,6 +1,3 @@
-# Description
-In this project I have created 1 page only for the payment flow of an item, on this page there is a form with realtime validation. On this page when the page is refreshed no data changes.
-
 # Getting Started with Create React App
 
 This project was created with [Create React App].
